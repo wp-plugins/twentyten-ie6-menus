@@ -3,7 +3,7 @@
  * Plugin Name: Twentyten IE6 Menus
  * Author: Sara Cannon
  * Author URI: http://sara-cannon.com
- * Description: Make the menu drop down in IE6 (if you care about that sort of thing)
+ * Description: Make the menu drop down in IE6 in Twentyten (if you care about that sort of thing)
  * Version: 1.0
  * License: GPL2
  */
