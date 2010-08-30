@@ -1,11 +1,11 @@
 === Plugin Name ===
 Contributors: saracannon
-Tags: menus, ie6, dropdown, twentyten
+Tags: menus, ie6, dropdown, twentyten, Twenty Ten
 Requires at least: 3.0
 Tested up to: 3.0
 Stable tag: trunk
 
-Use this plugin to make the main menu in the twentyten theme drop down in IE6.
+Use this plugin to make the main menu in the twentyten theme drop down in IE6. Perfect for Child Themes.
 
 == Description ==
 
