@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Twentyten IE6 Menus
+ * Plugin Name: Twenty Ten IE6 Menus
  * Author: Sara Cannon
  * Author URI: http://sara-cannon.com
  * Description: Make the menu drop down in IE6 in Twentyten (if you care about that sort of thing)
